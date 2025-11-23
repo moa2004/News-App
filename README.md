@@ -24,7 +24,7 @@ A Flutter news experience inspired by the provided mockups: curated categories, 
    ```
 3) Add environment variables in `.env` (already ignored by git):
    ```env
-   NEWS_API_KEY=840b1d72d36747fababae583647c1ac5
+   NEWS_API_KEY=
    ```
 4) Run the app:
    ```bash
